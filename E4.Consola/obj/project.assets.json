@@ -1,0 +1,138 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ConsoleHelper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ConsoleHelper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleHelper.dll": {}
+        }
+      },
+      "E4.Datos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "E4.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/E4.Datos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/E4.Datos.dll": {}
+        }
+      },
+      "E4.Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/E4.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/E4.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleHelper/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleExtensions/ConsoleHelper.csproj",
+      "msbuildProject": "../ConsoleExtensions/ConsoleHelper.csproj"
+    },
+    "E4.Datos/1.0.0": {
+      "type": "project",
+      "path": "../E4.Datos/E4.Datos.csproj",
+      "msbuildProject": "../E4.Datos/E4.Datos.csproj"
+    },
+    "E4.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../E4.Entidades/E4.Entidades.csproj",
+      "msbuildProject": "../E4.Entidades/E4.Entidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ConsoleHelper >= 1.0.0",
+      "E4.Datos >= 1.0.0",
+      "E4.Entidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\diego\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E4.Consola\\E4.Consola.csproj",
+      "projectName": "E4.Consola",
+      "projectPath": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E4.Consola\\E4.Consola.csproj",
+      "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E4.Consola\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\ConsoleExtensions\\ConsoleHelper.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\ConsoleExtensions\\ConsoleHelper.csproj"
+            },
+            "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E4.Datos\\E4.Datos.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E4.Datos\\E4.Datos.csproj"
+            },
+            "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E4.Entidades\\E4.Entidades.csproj": {
+              "projectPath": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E4.Entidades\\E4.Entidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

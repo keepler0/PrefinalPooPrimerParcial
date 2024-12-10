@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83866105-676C-482C-B99D-5F9BE0C43857}|E4.Consola\\E4.Consola.csproj|c:\\users\\diego\\source\\repos\\prefinalpooprimerparcial\\e4.consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83866105-676C-482C-B99D-5F9BE0C43857}|E4.Consola\\E4.Consola.csproj|solutionrelative:e4.consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955BB36D-06CB-474D-8A7C-6020DEE30220}|E4.Datos\\E4.Datos.csproj|c:\\users\\diego\\source\\repos\\prefinalpooprimerparcial\\e4.datos\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955BB36D-06CB-474D-8A7C-6020DEE30220}|E4.Datos\\E4.Datos.csproj|solutionrelative:e4.datos\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{648DF88F-08E2-4333-AF1C-59D0D7DABF7D}|E4.Entidades\\E4.Entidades.csproj|c:\\users\\diego\\source\\repos\\prefinalpooprimerparcial\\e4.entidades\\numharshad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{648DF88F-08E2-4333-AF1C-59D0D7DABF7D}|E4.Entidades\\E4.Entidades.csproj|solutionrelative:e4.entidades\\numharshad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3338EDA5-A119-47F6-B9C9-B0AD0BADD9AB}|ConsoleExtensions\\ConsoleHelper.csproj|c:\\users\\diego\\source\\repos\\prefinalpooprimerparcial\\consoleextensions\\consoleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3338EDA5-A119-47F6-B9C9-B0AD0BADD9AB}|ConsoleExtensions\\ConsoleHelper.csproj|solutionrelative:consoleextensions\\consoleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64781740-AFBA-4836-828B-51335FE83149}|E3.Consola\\E3.Consola.csproj|c:\\users\\diego\\source\\repos\\prefinalpooprimerparcial\\e3.consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64781740-AFBA-4836-828B-51335FE83149}|E3.Consola\\E3.Consola.csproj|solutionrelative:e3.consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE356F-3FDD-4637-A257-64FA5FD8153A}|E3.Entidades\\E3.Entidades.csproj|c:\\users\\diego\\source\\repos\\prefinalpooprimerparcial\\e3.entidades\\numreal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEE356F-3FDD-4637-A257-64FA5FD8153A}|E3.Entidades\\E3.Entidades.csproj|solutionrelative:e3.entidades\\numreal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEE356F-3FDD-4637-A257-64FA5FD8153A}|E3.Entidades\\E3.Entidades.csproj|c:\\users\\diego\\source\\repos\\prefinalpooprimerparcial\\e3.entidades\\numcomplejo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEE356F-3FDD-4637-A257-64FA5FD8153A}|E3.Entidades\\E3.Entidades.csproj|solutionrelative:e3.entidades\\numcomplejo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E4.Consola\\Program.cs",
+              "RelativeDocumentMoniker": "E4.Consola\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E4.Consola\\Program.cs",
+              "RelativeToolTip": "E4.Consola\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:00:45.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repositorio.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E4.Datos\\Repositorio.cs",
+              "RelativeDocumentMoniker": "E4.Datos\\Repositorio.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E4.Datos\\Repositorio.cs",
+              "RelativeToolTip": "E4.Datos\\Repositorio.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAywGQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:53:22.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumHarshad.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E4.Entidades\\NumHarshad.cs",
+              "RelativeDocumentMoniker": "E4.Entidades\\NumHarshad.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E4.Entidades\\NumHarshad.cs",
+              "RelativeToolTip": "E4.Entidades\\NumHarshad.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:45:46.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\ConsoleExtensions\\ConsoleExtensions.cs",
+              "RelativeDocumentMoniker": "ConsoleExtensions\\ConsoleExtensions.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\ConsoleExtensions\\ConsoleExtensions.cs",
+              "RelativeToolTip": "ConsoleExtensions\\ConsoleExtensions.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:34:19.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NumComplejo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E3.Entidades\\NumComplejo.cs",
+              "RelativeDocumentMoniker": "E3.Entidades\\NumComplejo.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E3.Entidades\\NumComplejo.cs",
+              "RelativeToolTip": "E3.Entidades\\NumComplejo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:59:07.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NumReal.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E3.Entidades\\NumReal.cs",
+              "RelativeDocumentMoniker": "E3.Entidades\\NumReal.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E3.Entidades\\NumReal.cs",
+              "RelativeToolTip": "E3.Entidades\\NumReal.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:58:40.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E3.Consola\\Program.cs",
+              "RelativeDocumentMoniker": "E3.Consola\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\PrefinalPOOPrimerParcial\\E3.Consola\\Program.cs",
+              "RelativeToolTip": "E3.Consola\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:56:19.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

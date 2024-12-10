@@ -1,0 +1,11 @@
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\ConsoleExtensions\bin\Debug\net8.0\ConsoleHelper.deps.json
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\ConsoleExtensions\bin\Debug\net8.0\ConsoleHelper.dll
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\ConsoleExtensions\bin\Debug\net8.0\ConsoleHelper.pdb
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\ConsoleExtensions\obj\Debug\net8.0\ConsoleHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\ConsoleExtensions\obj\Debug\net8.0\ConsoleHelper.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\ConsoleExtensions\obj\Debug\net8.0\ConsoleHelper.AssemblyInfo.cs
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\ConsoleExtensions\obj\Debug\net8.0\ConsoleHelper.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\ConsoleExtensions\obj\Debug\net8.0\ConsoleHelper.dll
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\ConsoleExtensions\obj\Debug\net8.0\refint\ConsoleHelper.dll
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\ConsoleExtensions\obj\Debug\net8.0\ConsoleHelper.pdb
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\ConsoleExtensions\obj\Debug\net8.0\ref\ConsoleHelper.dll

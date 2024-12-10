@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleHelper/1.0.0": {
+        "runtime": {
+          "ConsoleHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

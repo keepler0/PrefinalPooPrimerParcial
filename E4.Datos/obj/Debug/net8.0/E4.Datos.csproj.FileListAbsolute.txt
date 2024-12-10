@@ -1,0 +1,15 @@
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\bin\Debug\net8.0\E4.Datos.deps.json
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\bin\Debug\net8.0\E4.Datos.dll
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\bin\Debug\net8.0\E4.Datos.pdb
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\bin\Debug\net8.0\E4.Entidades.dll
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\bin\Debug\net8.0\E4.Entidades.pdb
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\obj\Debug\net8.0\E4.Datos.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\obj\Debug\net8.0\E4.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\obj\Debug\net8.0\E4.Datos.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\obj\Debug\net8.0\E4.Datos.AssemblyInfo.cs
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\obj\Debug\net8.0\E4.Datos.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\obj\Debug\net8.0\E4.Datos.csproj.Up2Date
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\obj\Debug\net8.0\E4.Datos.dll
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\obj\Debug\net8.0\refint\E4.Datos.dll
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\obj\Debug\net8.0\E4.Datos.pdb
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E4.Datos\obj\Debug\net8.0\ref\E4.Datos.dll

@@ -1,0 +1,11 @@
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E3.Entidades\bin\Debug\net8.0\E3.Entidades.deps.json
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E3.Entidades\bin\Debug\net8.0\E3.Entidades.dll
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E3.Entidades\bin\Debug\net8.0\E3.Entidades.pdb
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E3.Entidades\obj\Debug\net8.0\E3.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E3.Entidades\obj\Debug\net8.0\E3.Entidades.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E3.Entidades\obj\Debug\net8.0\E3.Entidades.AssemblyInfo.cs
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E3.Entidades\obj\Debug\net8.0\E3.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E3.Entidades\obj\Debug\net8.0\E3.Entidades.dll
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E3.Entidades\obj\Debug\net8.0\refint\E3.Entidades.dll
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E3.Entidades\obj\Debug\net8.0\E3.Entidades.pdb
+C:\Users\diego\source\repos\PrefinalPOOPrimerParcial\E3.Entidades\obj\Debug\net8.0\ref\E3.Entidades.dll

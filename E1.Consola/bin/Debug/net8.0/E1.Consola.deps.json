@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "E1.Consola/1.0.0": {
+        "dependencies": {
+          "ConsoleHelper": "1.0.0",
+          "E1.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "E1.Consola.dll": {}
+        }
+      },
+      "ConsoleHelper/1.0.0": {
+        "runtime": {
+          "ConsoleHelper.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "E1.Entidades/1.0.0": {
+        "runtime": {
+          "E1.Entidades.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E1.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "E1.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
